@@ -1,0 +1,28 @@
+body {
+    text-align: center;
+}
+
+h1 {
+    color: #FC4C02;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    width: auto;
+    height: 25vw;
+}
+
+h2 {
+    color: #FC4C02;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.wrapper {
+    margin: auto 50vh;
+}
